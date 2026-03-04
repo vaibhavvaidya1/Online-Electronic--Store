@@ -136,7 +136,7 @@ VALUES ('teju', 'tejuadmin', 'Xyz', 'Acb', 'Hyd', 'teju@example.com', '123456789
 ---
 
 ## 🔗 Author  
-📧 **Tejas Shende** – [tejashshende7@gmail.com](mailto:tejashshende7@gmail.com)  
+📧 **Vaibhav Vaidya** – [vaibhavvaidya3604@gmail.com](mailto:vaibhavvaidya3604@gmail.com)  
 
 ---
 
